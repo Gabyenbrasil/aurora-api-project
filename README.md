@@ -1,7 +1,11 @@
-Curso  de DDD da DIO em parceria com a Avanade , ministrado  por Alexandre Bogiani Daccas de Mendonça
-Projeto: Desenvolvento sua aplicação com C# usando DDD
-Projeto apresentado no curso : Aurora
+Curso  de DDD da DIO em parceria com a Avanade , ministrado  por Alexandre Bogiani Daccas de Mendonça.
+
+Projeto: Desenvolvento sua aplicação com C# usando DDD.
+
+Projeto apresentado no curso : Aurora.
+
 Foram apresentados os conceitos principais do DDD, a contruçao do modelo de dominio (MDD) atraves da arquitetura de camadas e as regras para a modelagem do dominio.
+
 O dominio é a parte central da aplicaçao.
 
 
